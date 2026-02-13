@@ -1,1 +1,1 @@
-Projeto de Diagrama Entidade-Relacionamento (DER) de um Ecomerce
+Projeto de Diagrama Entidade-Relacionamento (DER) de um E-commerce.
